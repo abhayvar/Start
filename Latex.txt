@@ -1,0 +1,48 @@
+\documentclass[12pt, letterpaper, twoside]{article}
+\usepackage[utf8]{inputenc}
+ 
+\title{Integration}
+\author{Abhay Varshney}
+\date{29 November 2017}
+\begin{document}
+ 
+\maketitle
+\textbf 
+{Comprehension}\\
+
+Differentiate I w.r.t. the parameter within the sign of integrals taking variable of the integrand as constant.
+Now, evaluate the integral so obtained as usual as a function of the parameter and then integrate the result to
+get I. Constant of integration can be computed by giving some arbitrary values to the parameter and the
+corresponding value of I.\\
+
+1.The value of$\int_0^1 \frac{x^a - 1}{logx}$dx is\\
+
+(A) log(a-1)
+
+(B) log(a+1)
+
+(C) a log (a+1)
+
+(D) None of these\\
+
+2.The value of$\int_0^\frac{\pi}{2}log(sin^2\theta+k^2cos^2\theta)d\theta$ ,where k is greater then or equal  
+
+\hspace{.3cm} to 0 ; is\\
+
+(A) $\pi log(1+k)+\pi log(2)$
+
+(B) $\pi log(1+k)$
+
+(C) $\pi log(1+k)-\pi log(2)$
+
+(D) $\pi log(1+k)- log(2)$\\
+
+\vspace{2cm}
+\textbf 
+{Answers}\\
+
+1. B\\
+
+2. C\\
+
+\end{document}
